@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import '../assets/stylesheets/application.scss';
 
-const Hello = ({ name }) => {
+const Hello = ({name}) => {
   return (
     <div>
       Hello,
